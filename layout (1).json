@@ -1,0 +1,114 @@
+{
+  "furniture": [
+    {
+      "name": "sofa",
+      "name_vi": "ghe sofa",
+      "w": 2.2,
+      "l": 0.9,
+      "h": 0.85,
+      "x": 1.05,
+      "y": 0.1,
+      "rotation": 0,
+      "material": "linen",
+      "color": "light gray"
+    },
+    {
+      "name": "coffee table",
+      "name_vi": "ban tra",
+      "w": 1.1,
+      "l": 0.6,
+      "h": 0.45,
+      "x": 1.35,
+      "y": 1.15,
+      "rotation": 0,
+      "material": "oak",
+      "color": "natural oak"
+    },
+    {
+      "name": "tv stand",
+      "name_vi": "ke tivi",
+      "w": 1.6,
+      "l": 0.4,
+      "h": 0.5,
+      "x": 1.45,
+      "y": 5.5,
+      "rotation": 0,
+      "material": "oak",
+      "color": "white oak"
+    },
+    {
+      "name": "armchair",
+      "name_vi": "ghe banh",
+      "w": 0.8,
+      "l": 0.8,
+      "h": 0.85,
+      "x": 0.1,
+      "y": 1.0,
+      "rotation": 0,
+      "material": "wool",
+      "color": "beige"
+    },
+    {
+      "name": "armchair",
+      "name_vi": "ghe banh",
+      "w": 0.8,
+      "l": 0.8,
+      "h": 0.85,
+      "x": 3.6,
+      "y": 1.0,
+      "rotation": 0,
+      "material": "wool",
+      "color": "beige"
+    },
+    {
+      "name": "side table",
+      "name_vi": "ban phu",
+      "w": 0.45,
+      "l": 0.45,
+      "h": 0.55,
+      "x": 0.1,
+      "y": 2.0,
+      "rotation": 0,
+      "material": "oak",
+      "color": "natural"
+    },
+    {
+      "name": "floor lamp",
+      "name_vi": "den san",
+      "w": 0.3,
+      "l": 0.3,
+      "h": 1.6,
+      "x": 3.85,
+      "y": 2.1,
+      "rotation": 0,
+      "material": "metal",
+      "color": "matte black"
+    },
+    {
+      "name": "rug",
+      "name_vi": "tham",
+      "w": 2.0,
+      "l": 1.4,
+      "h": 0.01,
+      "x": 0.7,
+      "y": 1.9,
+      "rotation": 0,
+      "material": "wool",
+      "color": "cream"
+    }
+  ],
+  "style_description": "Scandinavian living room with a focus on linen, overall neutral color palette.",
+  "color_palette": [
+    "#F5F0E8",
+    "#D4C5B0",
+    "#8B7355",
+    "#3D3B38"
+  ],
+  "materials": [
+    "linen",
+    "oak wood",
+    "wool"
+  ],
+  "lighting": "Warm lighting (3000K) and floor lamp for ambiance",
+  "image_prompt_keywords": "scandinavian living room, linen sofa, oak coffee table, white walls, hygge, natural light"
+}

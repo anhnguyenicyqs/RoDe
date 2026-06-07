@@ -1,0 +1,18 @@
+# CÀI ĐẶT PYTORCH HỖ TRỢ CUDA TRÊN WINDOWS TRƯỚC:
+# Chạy lệnh này trước để cài đặt PyTorch hỗ trợ GPU CUDA cho RTX 5060 Ti:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+# Hoặc phiên bản mới hơn tùy thuộc vào bản CUDA trên máy của bạn.
+
+# Sau đó cài đặt các thư viện bổ sung này:
+# pip install -r requirements.txt
+
+transformers>=4.44.2
+accelerate>=0.33.0
+diffusers>=0.30.3
+controlnet_aux==0.0.9
+ezdxf>=1.3.4
+huggingface_hub>=0.24.7
+bitsandbytes>=0.42.0
+pillow
+matplotlib
+numpy
